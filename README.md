@@ -12,6 +12,6 @@ All experimental results are available at the website https://copa-leaderboard.g
 
 In our paper, we conduct experiments on Atari games Freeway and Breakout, as well as an autonomous driving environment Highway. For each RL environment, we evaluate three RL algorithms (DQN, QR-DQN, and C51), three aggregation protocols and certification methods (PARL, TPARL, and DPARL), up to three partition numbers, and multiple horizon lengths. 
 
-Reference implementation for experiments on Atari games can be found at https://github.com/garyxcj/COPA_Atari.
+Reference implementation for experiments on Atari games can be found at https://github.com/AI-secure/COPA_Atari.
 
-Reference implementation for experiments on Highway can be found at https://github.com/garyxcj/COPA_Highway.
+Reference implementation for experiments on Highway can be found at https://github.com/AI-secure/COPA_Highway.
