@@ -2,7 +2,7 @@
 
 We propose COPA, the first unified framework for certifying robust policies for general ofﬂine RL against poisoning attacks, based on certification criteria including *per-state action stability* and *the lower bound of cumulative reward*. Specifically, we propose new partition and aggregation protocols *(PARL, TPARL, DPARL)* to obtain robust policies and provide certification methods for them. More details can be found in our paper: 
 
-*Fan Wu, Linyi Li, Chejian Xu, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, and Bo Li*, "COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks", [ICLR 2022](https://openreview.net/forum?id=psh0oeMSBiF)
+*Fan Wu\*, Linyi Li\*, Chejian Xu, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao*, and *Bo Li*, "COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks", [ICLR 2022](https://openreview.net/forum?id=psh0oeMSBiF) (\*Equal contribution) 
 
 All experimental results are available at the website https://copa-leaderboard.github.io/.
 
