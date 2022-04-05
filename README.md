@@ -14,7 +14,13 @@ Reference implementation for experiments on Atari games can be found at https://
 
 Reference implementation for experiments on Highway can be found at https://github.com/AI-secure/COPA_Highway.
 
+## Reference
 
-
-
-
+```tex
+@inproceedings{wu2022copa,
+title={COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks},
+author={Wu, Fan and Li, Linyi and Xu, Chejian and Zhang, Huan and Kailkhura, Bhavya and Kenthapadi, Krishnaram and Zhao, Ding and Li, Bo},
+booktitle={International Conference on Learning Representations},
+year={2022}
+}
+```
